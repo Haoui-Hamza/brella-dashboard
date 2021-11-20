@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Virtual Booths",
+        "status":"on",
+        "img":"vr-booth.png"
+    },
+    {
+        "name":"Game Room",
+        "status":"off",
+        "img":"https://nearspark.reticulum.io/thumbnail/aHR0cHM6Ly91cGxvYWRzLXByb2QucmV0aWN1bHVtLmlvL2ZpbGVzLzg2N2Q0MjliLTMzYmEtNDAzZC05YTJhLWJkZGYwNjc2YjAzNy5qcGc.jpg?w=391&h=220"
+    },
+    {
+        "name":"OutDoor Dome",
+        "status":"off",
+        "img":"https://nearspark.reticulum.io/thumbnail/aHR0cHM6Ly91cGxvYWRzLXByb2QucmV0aWN1bHVtLmlvL2ZpbGVzL2EyYWUyMWI1LTJhYTUtNGMzMS1hMGRhLTRjYmMzMTY2MTkyMi5qcGc.jpg?w=391&h=220"
+    },
+    {
+        "name":"Open Space",
+        "status":"off",
+        "img":"https://nearspark.reticulum.io/thumbnail/aHR0cHM6Ly91cGxvYWRzLXByb2QucmV0aWN1bHVtLmlvL2ZpbGVzL2JmYWFiYTA4LTVjOTktNDY0OS1hNTdmLWY2M2Q5MzM0NmEzMS5qcGc.jpg?w=391&h=220"
+    },
+    {
+        "name":"Maze",
+        "status":"off",
+        "img":"https://nearspark.reticulum.io/thumbnail/aHR0cHM6Ly91cGxvYWRzLXByb2QucmV0aWN1bHVtLmlvL2ZpbGVzLzk1ZTJlMTM1LTU5ZGUtNDAzZC04MmMwLTZiMDNlMzIyZjJjNy5qcGc.jpg?w=391&h=220"
+    },
+    {
+        "name":"Event Hub",
+        "status":"off",
+        "img":"https://nearspark.reticulum.io/thumbnail/aHR0cHM6Ly91cGxvYWRzLXByb2QucmV0aWN1bHVtLmlvL2ZpbGVzL2E3MTYyYzAwLWMzNTEtNGE5ZC1hMGI2LWU1YWI1ZDUyY2VlNy5qcGc.jpg?w=391&h=220"
+    }
+]
